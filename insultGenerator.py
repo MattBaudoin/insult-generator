@@ -11,7 +11,12 @@ library = [(myname + ', if you aren\'t an idiot, you made a world-class effort a
            ('I will never get over the embarrassment of belonging to the same species as you, ' + myname + '.'),
            (myname + ' has bad breath!'),
            ('Someday ' + myname + ' will go far. I hope they stay there forever.'),
-           (myname + ', I have neither the time nor the crayons to explain this to you.')
+           (myname + ', I have neither the time nor the crayons to explain this to you.'),
+           (myname + ' is the human equivalent of a participation award.'),
+           (myname + ' your mother is a hampster and your father smells of elderberries.'),
+           (myname + ' is the reason the gene pool needs a lifeguard.'),
+           (myname + ' , you should carry around a plant to replace the oxygen you waste.'),
+           (myname + ' has a face for radio.'),
            ]
 
 insult = random.choice(library)
